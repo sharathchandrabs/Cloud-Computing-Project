@@ -70,6 +70,6 @@ PySpark Implementation: [Link](https://github.com/naveendennis/LogisticRegressio
 
 Links to other models -
 
-Naveen Dennis Barnabas - [K-Means](https://github.com/naveendennis/LogisticRegression-using-Spark-with-MLlib/blob/master/KMeansClustering.ipynb)
+[K-Means](https://github.com/naveendennis/LogisticRegression-using-Spark-with-MLlib/blob/master/KMeansClustering.ipynb) - Naveen Dennis Barnabas
 
-Aditya Kumar - [KNN]()
+[KNN]() - Aditya Kumar
