@@ -35,10 +35,24 @@ Vectorized implementation,
 
 Features used for Banking Dataset:
 
-| col 1 is |  left-aligned |
-| col 2 is |    centered   |
-| col 3 is | right-aligned |
-
+| Age |  (numeric) |
+| Job |    type of job (categorical: 'admin.','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student','technician','unemployed','unknown')
+   |
+| Marital | marital status (categorical: 'divorced','married','single','unknown'; note: 'divorced' means divorced or widowed) |
+| Education |  (categorical: 'basic.4y','basic.6y','basic.9y','high.school','illiterate','professional.course','university.degree','unknown')
+ |
+| Defaulter |  has credit in default? (categorical: 'no','yes','unknown')
+ |
+| Housing |  has housing loan? (categorical: 'no','yes','unknown')
+ |
+| Loan |  has personal loan? (categorical: 'no','yes','unknown') |
+| Contact |  contact communication type (categorical: 'cellular','telephone') |
+| Duration |  last contact duration, in seconds (numeric).
+ |
+| Campaign |  number of contacts performed during this campaign and for this client (numeric, includes last contact) |
+| Pdays |  number of days that passed by after the client was last contacted from a previous campaign |
+| Previous |  number of contacts performed before this campaign and for this client (numeric) |
+| Poutcome |  outcome of the previous marketing campaign (categorical: 'failure','nonexistent','success') |
 
 
 Logistic Regression Accuracy-
@@ -52,3 +66,6 @@ Confusion Matrix-
 Cost vs Number of Iterations -
 
 ![Image](images/costvsnumiters.png)
+
+Links to other models -
+[Link](https://github.com/naveendennis/LogisticRegression-using-Spark-with-MLlib/blob/master/KMeansClustering.ipynb)
