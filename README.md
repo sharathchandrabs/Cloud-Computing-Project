@@ -21,7 +21,7 @@ The above two forms of the cost function can be clubbed into one single equation
 
 Vectorized implementation is as shown below,
 
-![Image](images/vectorizedImplementationCostFunc.png)
+![Image](images/vectorImplementationCostFunc.png)
 
 Gradient Descent-
 
