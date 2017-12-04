@@ -66,7 +66,7 @@ Cost vs Number of Iterations -
 
 Implementation in Spark ML Lib Logistic Regression Model -
 
-PySpark Implementation: [Link](https://github.com/naveendennis/LogisticRegression-using-Spark-with-MLlib/blob/master/LogisticRegressionWithMLlib.ipynb)
+[PySpark Implementation](https://github.com/naveendennis/LogisticRegression-using-Spark-with-MLlib/blob/master/LogisticRegressionWithMLlib.ipynb)
 
 Links to other models -
 
