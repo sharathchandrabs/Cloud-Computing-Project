@@ -35,27 +35,17 @@ Vectorized implementation,
 
 Features used for Banking Dataset:
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
 | Features   |      Description      |
 |----------|:-------------:|
 | Age |  (numeric) |
 | Job |    type of job (categorical: 'admin.','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student','technician','unemployed','unknown')   |
 | Marital | marital status (categorical: 'divorced','married','single','unknown'; note: 'divorced' means divorced or widowed) |
-| Education |  (categorical: 'basic.4y','basic.6y','basic.9y','high.school','illiterate','professional.course','university.degree','unknown')
- |
-| Defaulter |  has credit in default? (categorical: 'no','yes','unknown')
- |
-| Housing |  has housing loan? (categorical: 'no','yes','unknown')
- |
+| Education |  (categorical:'basic.4y','basic.6y','basic.9y','high.school','illiterate','professional.course','university.degree','unknown')|
+| Defaulter |  has credit in default? (categorical: 'no','yes','unknown') |
+| Housing |  has housing loan? (categorical: 'no','yes','unknown')|
 | Loan |  has personal loan? (categorical: 'no','yes','unknown') |
 | Contact |  contact communication type (categorical: 'cellular','telephone') |
-| Duration |  last contact duration, in seconds (numeric).
- |
+| Duration |  last contact duration, in seconds (numeric).|
 | Campaign |  number of contacts performed during this campaign and for this client (numeric, includes last contact) |
 | Pdays |  number of days that passed by after the client was last contacted from a previous campaign |
 | Previous |  number of contacts performed before this campaign and for this client (numeric) |
