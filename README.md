@@ -41,7 +41,8 @@ Features used for Banking Dataset:
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
 
-
+| Features   |      Description      |
+|----------|:-------------:|
 | Age |  (numeric) |
 | Job |    type of job (categorical: 'admin.','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student','technician','unemployed','unknown')   |
 | Marital | marital status (categorical: 'divorced','married','single','unknown'; note: 'divorced' means divorced or widowed) |
