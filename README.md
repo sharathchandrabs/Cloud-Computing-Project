@@ -5,4 +5,4 @@ Logistic Regression is a regression model where the dependent variable is catego
 Sigmoid function-
 The output vector will only be 0 or 1 i.e. y∈{0,1}. The hypothesis function h(x) must satisfy 0<h(x)<1. In order to map h(x) to the interval (0,1) we use the sigmoid function, also known as the logistic function.
 
-![Image]https://github.com/sharathchandrabs/Cloud-Computing-Project/blob/master/images/sigmoid.png
+![Image]images/sigmoid.png
