@@ -1,8 +1,11 @@
 # Predicting Customer Term Deposit Acceptance in Portugese Banking Institution
 
 Members -
+
 Bagur Suryanarayanaprasad, Sharath Chandra - 800974802 - sbagursu@uncc.edu
+
 Dennis Barnabas, Naveen - 800950806 - nbarnabas@uncc.edu
+
 Sampath Kumar Krishnaswamy, Aditya Kumar - 800965120 - asampath@uncc.edu
 
 ## Problem Statement -
