@@ -1,3 +1,12 @@
+
+## Problem Statement -
+
+To implement classification algorithms to classify whether or not a customer will be accept/reject the bank's term deposit offering. Such an initial insight into a customer's enrollment possibility aids the bank to improve the offerings to attract more customers. Algorithms implemented - Logistic Regression and KNN. K-Means Clustering algorithm has been implemented to segregate customers into different groups and target potential customers based on relevant features. Clustering is performed to do analysis and partition the general population of consumers into market segments and to better understand the relationships between different groups of consumers/potential customers. We had proposed to implement Logistic Regression and K-Means and also likely to accomplish KNN. We have implemented all the three algorithms.
+
+## About the dataset -
+
+The dataset is available in the UCI repository and is available at the link https://archive.ics.uci.edu/ml/datasets/Bank+Marketing. The data is about the marketing campaign of a financial banking institution. The objective is to predict whether the customer is going to subscribe to a term deposit or not. There were 20 factors in total which determined the acceptance of the term deposit by the customers.
+
 ## Logistic Regression on Portugese Banking Dataset
 
 ### Logistic Regression:
