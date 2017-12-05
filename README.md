@@ -23,9 +23,7 @@ The dataset is available in the UCI repository and is available at the link http
 
 ## Implementations -
 
-- Logistic Regression in Spark(using standard library) - [Logistic Regression on Portugese Banking Dataset](https://github.com/sharathchandrabs/Cloud-Computing-Project/blob/master/report.pdf)
-
-- Logistic Regression in Spark(using standard library) - [Logistic Regression Spark](https://github.com/sharathchandrabs/Cloud-Computing-Project/blob/master/sparkImplementation.py) 
+- Logistic Regression in Spark(without using standard library) - [Logistic Regression on Portugese Banking Dataset](https://github.com/sharathchandrabs/Cloud-Computing-Project/blob/master/report.pdf)
 
 - Spark ML Lib Logistic Regression Model - [PySpark ML Lib Implementation](https://github.com/naveendennis/LogisticRegression-using-Spark-with-MLlib/blob/master/LogisticRegressionWithMLlib.ipynb)
 
