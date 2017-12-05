@@ -5,7 +5,7 @@ To implement classification algorithms to classify whether or not a customer wil
 
 ## About the dataset -
 
-The dataset is available in the UCI repository and is available at the link https://archive.ics.uci.edu/ml/datasets/Bank+Marketing. The data is about the marketing campaign of a financial banking institution. The objective is to predict whether the customer is going to subscribe to a term deposit or not. There were 20 factors in total which determined the acceptance of the term deposit by the customers.
+The dataset is available in the UCI repository and is available at the link https://archive.ics.uci.edu/ml/datasets/Bank+Marketing. The data is about the marketing campaign of a Portugese financial banking institution. The objective is to predict whether the customer is going to subscribe to a term deposit or not. There were 20 factors in total which determined the acceptance of the term deposit by the customers.
 
 ## Logistic Regression on Portugese Banking Dataset
 
