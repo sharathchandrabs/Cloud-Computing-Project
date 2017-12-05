@@ -30,3 +30,13 @@ The dataset is available in the UCI repository and is available at the link http
 - K-Means - [K-Means](https://github.com/naveendennis/LogisticRegression-using-Spark-with-MLlib/blob/master/KMeansClustering.ipynb) - Naveen Dennis Barnabas
 
 - KNN - [KNN](https://github.com/adithyaksk/KNN-cloud) - Aditya Kumar
+
+## References - 
+
+- http://scikit-learn.org/stable/
+- https://spark.apache.org/mllib/
+- C. Y. Lin, C. H. Tsai, C. P. Lee and C. J. Lin, "Large-scale logistic regression and linear support vector machines using spark," 2014 IEEE International Conference on Big Data (Big Data), Washington, DC, 2014,URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7004269&isnumber=7004197
+- www.coursera.org
+- https://nlp.stanford.edu/IR-book/html/htmledition/k-nearest-neighbor-1.html
+- http://stanford.edu/~cpiech/cs221/handouts/kmeans.html
+
