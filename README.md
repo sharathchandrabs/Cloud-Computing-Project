@@ -80,4 +80,4 @@ Links to other models -
 
 [K-Means](https://github.com/naveendennis/LogisticRegression-using-Spark-with-MLlib/blob/master/KMeansClustering.ipynb) - Naveen Dennis Barnabas
 
-[KNN]() - Aditya Kumar
+[KNN](https://github.com/adithyaksk/KNN-cloud) - Aditya Kumar
