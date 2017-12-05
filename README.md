@@ -23,12 +23,12 @@ The dataset is available in the UCI repository and is available at the link http
 
 ## Implementations -
 
--Implementation of Logistic Regression in Spark(using standard library) - [Logistic Regression on Portugese Banking Dataset](https://github.com/sharathchandrabs/Cloud-Computing-Project/blob/master/report.pdf)
+- Logistic Regression in Spark(using standard library) - [Logistic Regression on Portugese Banking Dataset](https://github.com/sharathchandrabs/Cloud-Computing-Project/blob/master/report.pdf)
 
--Implementation of Logistic Regression in Spark(using standard library) - [Logistic Regression Spark](https://github.com/sharathchandrabs/Cloud-Computing-Project/blob/master/sparkImplementation.py) 
+- Logistic Regression in Spark(using standard library) - [Logistic Regression Spark](https://github.com/sharathchandrabs/Cloud-Computing-Project/blob/master/sparkImplementation.py) 
 
--Implementation in Spark ML Lib Logistic Regression Model - [PySpark ML Lib Implementation](https://github.com/naveendennis/LogisticRegression-using-Spark-with-MLlib/blob/master/LogisticRegressionWithMLlib.ipynb)
+- Spark ML Lib Logistic Regression Model - [PySpark ML Lib Implementation](https://github.com/naveendennis/LogisticRegression-using-Spark-with-MLlib/blob/master/LogisticRegressionWithMLlib.ipynb)
 
--Implementation of K-Means - [K-Means](https://github.com/naveendennis/LogisticRegression-using-Spark-with-MLlib/blob/master/KMeansClustering.ipynb) - Naveen Dennis Barnabas
+- K-Means - [K-Means](https://github.com/naveendennis/LogisticRegression-using-Spark-with-MLlib/blob/master/KMeansClustering.ipynb) - Naveen Dennis Barnabas
 
--Implementation of KNN - [KNN](https://github.com/adithyaksk/KNN-cloud) - Aditya Kumar
+- KNN - [KNN](https://github.com/adithyaksk/KNN-cloud) - Aditya Kumar
