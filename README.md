@@ -32,7 +32,7 @@ The dataset is available in the UCI repository and is available at the link http
 
 - K-Means - [K-Means](https://webpages.uncc.edu/nbarnaba/KMeans/) - Naveen Dennis Barnabas
 
-- KNN - [KNN](https://github.com/adithyaksk/KNN-cloud) - Aditya Kumar
+- KNN - [KNN](https://github.com/adithyaksk/KNN-cloud/blob/master/ProjectReport.pdf) - Aditya Kumar
 
 ## References - 
 
