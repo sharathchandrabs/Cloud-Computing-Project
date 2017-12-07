@@ -30,7 +30,7 @@ The dataset is available in the UCI repository and is available at the link http
 
 - Spark ML Lib Logistic Regression Model - [PySpark ML Lib Implementation](https://github.com/naveendennis/LogisticRegression-using-Spark-with-MLlib/blob/master/LogisticRegressionWithMLlib.ipynb)
 
-- K-Means - [K-Means](https://github.com/naveendennis/LogisticRegression-using-Spark-with-MLlib/blob/master/KMeansClustering.ipynb) - Naveen Dennis Barnabas
+- K-Means - [K-Means](https://webpages.uncc.edu/nbarnaba/KMeans/) - Naveen Dennis Barnabas
 
 - KNN - [KNN](https://github.com/adithyaksk/KNN-cloud) - Aditya Kumar
 
